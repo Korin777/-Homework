@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>shuai.png</file>
+        <file>heishi.png</file>
+        <file>bing.png</file>
+        <file>hongshi.png</file>
+        <file>heipao.png</file>
+        <file>hongpao.png</file>
+        <file>heixiang.png</file>
+        <file>hongxiang.png</file>
+        <file>jiang.png</file>
+        <file>heima.png</file>
+        <file>hongma.png</file>
+        <file>heiju.png</file>
+        <file>hongju.png</file>
+        <file>zu.png</file>
+        <file>background.jpg</file>
+        <file>test1.png</file>
+    </qresource>
+</RCC>

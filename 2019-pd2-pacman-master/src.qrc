@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>dot.png</file>
+        <file>ghostafraid.png</file>
+        <file>ghostdown1.png</file>
+        <file>ghostdown2.png</file>
+        <file>ghostdown3.png</file>
+        <file>ghostdown4.png</file>
+        <file>ghostleft1.png</file>
+        <file>ghostleft2.png</file>
+        <file>ghostleft3.png</file>
+        <file>ghostleft4.png</file>
+        <file>ghostright1.png</file>
+        <file>ghostright2.png</file>
+        <file>ghostright3.png</file>
+        <file>ghostright4.png</file>
+        <file>ghostup1.png</file>
+        <file>ghostup2.png</file>
+        <file>ghostup3.png</file>
+        <file>ghostup4.png</file>
+        <file>PowerBall.png</file>
+        <file>newpacmandown1 1st.png</file>
+        <file>newpacmandown2 2nd.png</file>
+        <file>newpacmandown3 3rd.png</file>
+        <file>newpacmanleft1 1st.png</file>
+        <file>newpacmanleft2 2nd.png</file>
+        <file>newpacmanleft3 3rd.png</file>
+        <file>newpacmanright1 1st.png</file>
+        <file>newpacmanright2 2nd.png</file>
+        <file>newpacmanright3 3rd.png</file>
+        <file>newpacmanup1 1st.png</file>
+        <file>newpacmanup2 2nd.png</file>
+        <file>newpacmanup3 3rd.png</file>
+        <file>gameover.png</file>
+    </qresource>
+</RCC>
